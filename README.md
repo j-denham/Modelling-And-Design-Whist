@@ -11,15 +11,15 @@ From our new design, we were to implement the required features given in the spe
 patterns. Throughout the project we use design patterns outlined by the 'Gang of Four', explaining the rationale for our design decisions in our report
 (`docs/Report.pdf`).
 
-The final codebase has been extenively modelled, including:
+The final codebase has been extensively modelled, including:
 * A complete UML Class Diagram (`docs/uml-class-diagram.pdf`)
 * A state machine of the Game class (`docs/game-state-machine.pdf`)
 * A UML sequence diagram of the smart player strategy (`docs/sequence-smart-player.pdf`)
-* And a UML domain diagram (`docs/domain-diagram`)
+* And a UML domain diagram (`docs/domain-diagram.pdf`)
 
 #### Project Structure
 * `docs/` contains all documentation relevant to the project
 * `lib/` contains the JGameGrid framework essential for the GUI
-* `swen30006/` contains all project source files, with `swen30006/sprites` containing media files
+* `swen30006/` contains all project source files, with `swen30006/sprites/` containing media files
 * `*.properties` contain various config options for the project
 
